@@ -23,6 +23,10 @@ Python ----> Advanced
 HTML    \
 JS     ---> Mediocre
         /
+
+Rust ---> Intermediate
+
+Sql ---> Mediocre
 ```
 
 ## Notes
